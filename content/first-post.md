@@ -1,8 +1,6 @@
 Title: My first post
 Date: 2010-03-08 11:00
-Tags: pelican, publishing
-Authors: Valentina Scipione
-Summary: Short version for index and feeds
+Status: published
 
-This is the content of my super blog post.
+This is the content of my first Pelican blog post.
 Happy Women's Day!!!
