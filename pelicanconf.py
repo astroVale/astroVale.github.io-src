@@ -22,12 +22,12 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (
     ('LinkedIn', 'https://www.linkedin.com/in/valentinascipione'),
-    #('You can modify those links in your config file', '#'),
+    ('Twitter', 'https://twitter.com/v_scipione'),
     )
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+# SOCIAL = (('You can add links in your config file', '#'),
+#           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
 DEFAULT_CATEGORY = 'General'
@@ -42,17 +42,14 @@ RELATIVE_URLS = True
 ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
 
+NEWEST_FIRST_ARCHIVES = True
+
 STATIC_PATHS = [
-    'images',
-    'files',
-    'extra/favicon.ico'
+    'images'
 ]
-EXTRA_PATH_METADATA = {
-    'extra/favicon.ico': {'path': 'favicon.ico'},
-}
 
 PLUGIN_PATHS = ["plugins"]
-PLUGINS = ["render_math", "liquid_tags.notebook"]
+PLUGINS = ["render_math", "liquid_tags.notebook", "share_post", "embed_tweet"]
 MARKDOWN = {
     'extension_configs': {
         'markdown.extensions.codehilite': {'css_class': 'highlight'},
@@ -64,6 +61,5 @@ MARKDOWN = {
 }
 
 THEME = 'themes/pelican-alchemy/alchemy'
-SITEIMAGE = '/images/NG1J2764.png width=90 height=90'
+SITEIMAGE = '/images/CV-2.png width=90 height=90'
 
-DISQUS_SITENAME = "DS Tales"
