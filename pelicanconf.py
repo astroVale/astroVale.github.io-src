@@ -38,7 +38,7 @@ DEFAULT_METADATA = {
 }
 
 # Display pages list on the top menu
-DISPLAY_PAGES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = True
 # Display categories list on the top menu
 DISPLAY_CATEGORIES_ON_MENU = False
 
@@ -66,10 +66,11 @@ RELATIVE_URLS = True
 ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
 
-MENUITEMS = [('Blog', '/'),
-             ('About', '/pages/about.html'),
-             ('CV', '/pages/cv.html'),
-             ('Archives', '/archives.html'),
+uri = 'http://astroVale.github.io'
+MENUITEMS = [('Blog', uri),
+             ('About', uri+'/pages/about.html'),
+             ('CV', uri+'/pages/cv.html'),
+             ('Archives', uri+'/archives.html'),
              ]
 
 NEWEST_FIRST_ARCHIVES = True
