@@ -1,5 +1,5 @@
 Title: Machine Learning Findings
-Date: 2017-03-07 19:00
+Date: 2017-03-07
 Status: published
 
 I've recently found out this series of lessons about Machine Learning Recipes from Google!

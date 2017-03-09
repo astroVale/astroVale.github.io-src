@@ -1,5 +1,5 @@
 Title: A Tale that wasn't right
-Date: 2017-02-08 11:00
+Date: 2017-02-08
 Status: published
 
 Many of my former colleagues from my PhD time ask me how to switch from Astrophysics to Data Science. Since I find myself in this transition,  I decided to write down my story.

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c26ad1c-592a-44c1-93dd-775aa7e604f7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/pelican-blueidea" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitmodules" afterPath="$PROJECT_DIR$/.gitmodules" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/first-post.md" afterPath="$PROJECT_DIR$/content/first-post.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/pages/about.md" afterPath="$PROJECT_DIR$/content/pages/about.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pelicanconf.py" afterPath="$PROJECT_DIR$/pelicanconf.py" />
-    </list>
+    <list default="true" id="9c26ad1c-592a-44c1-93dd-775aa7e604f7" name="Default" comment="" />
     <ignored path="ghpages.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
