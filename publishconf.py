@@ -20,5 +20,5 @@ DELETE_OUTPUT_DIRECTORY = False
 
 # Following items are often useful when publishing
 
-DISQUS_SITENAME = "DS Tales"
+#DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""

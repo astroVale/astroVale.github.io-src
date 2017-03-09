@@ -22,12 +22,14 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (
     ('LinkedIn', 'https://www.linkedin.com/in/valentinascipione'),
-    ('Twitter', 'https://twitter.com/v_scipione'),
     )
 
 # Social widget
-# SOCIAL = (('You can add links in your config file', '#'),
-#           ('Another social link', '#'),)
+SOCIAL = (('twitter', 'https://twitter.com/v_scipione'),
+          ('github', 'https://github.com/astroVale'),
+          ('linkedin','https://www.linkedin.com/in/valentinascipione'),
+          ('stackoverflow','http://stackoverflow.com/users/7193879/valentina-scipione'),
+          ('envelope','mailto:vscipione.mail@gmail.com'))
 
 DEFAULT_PAGINATION = 10
 DEFAULT_CATEGORY = 'General'
