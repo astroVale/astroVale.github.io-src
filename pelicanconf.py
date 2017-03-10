@@ -28,8 +28,7 @@ AUTHOR_FEED_RSS = None
 SOCIAL = (('linkedin','https://www.linkedin.com/in/valentinascipione'),
           ('twitter', 'https://twitter.com/v_scipione'),
           ('github', 'https://github.com/astroVale'),
-          ('stackoverflow','http://stackoverflow.com/users/7193879/valentina-scipione'),
-          ('mail','mailto:vscipione.mail@gmail.com'))
+         )
 
 DEFAULT_PAGINATION = 10
 DEFAULT_CATEGORY = 'General'
@@ -39,6 +38,12 @@ DEFAULT_METADATA = {
 
 # Display pages list on the top menu
 DISPLAY_PAGES_ON_MENU = True
+
+# PAGES = [('About', 'pages/about.html'),
+#          ('CV', 'pages/cv.html'),
+#          ('Archives', 'archives.html')
+#         ]
+
 # Display categories list on the top menu
 DISPLAY_CATEGORIES_ON_MENU = False
 
@@ -57,20 +62,18 @@ DISPLAY_SEARCH_FORM= False
 # Sort pages list by a given attribute
 # PAGES_SORT_ATTRIBUTE = Title
 
-# Display the "Fork me on Github" banner
-GITHUB_URL = None
-
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
+PAGE_URL = 'pages/{slug}/'
+PAGE_SAVE_AS = 'pages/{slug}/index.html'
 
-uri = 'http://astroVale.github.io'
-MENUITEMS = [('Blog', uri),
-             ('About', uri+'/pages/about.html'),
-             ('CV', uri+'/pages/cv.html'),
-             ('Archives', uri+'/archives.html'),
+MENUITEMS = [('Home', ''),
+             ('About', '/pages/about.html'),
+             ('CV', '/pages/cv.html'),
+             ('Archives', 'archives.html'),
              ]
 
 NEWEST_FIRST_ARCHIVES = True
@@ -91,6 +94,10 @@ MARKDOWN = {
     'output_format': 'html5',
 }
 
-THEME = 'themes/pelican-blueidea'
+THEME = 'themes/pelican-clean-blog'
 SITEIMAGE = '/images/CV-2.png width=90 height=90'
+HEADER_COVER = 'images/astro_sayner.jpg'
 
+GITHUB_URL = 'https://github.com/astroVale'
+TWITTER_URL = 'https://twitter.com/v_scipione'
+COLOR_SCHEME_CSS = 'darkly.css'

@@ -1,6 +1,7 @@
 Title: A Tale that wasn't right
 Date: 2017-02-08
 Status: published
+Header_Cover: /images/astro_sayner.jpg
 
 Many of my former colleagues from my PhD time ask me how to switch from Astrophysics to Data Science. Since I find myself in this transition,  I decided to write down my story.
 

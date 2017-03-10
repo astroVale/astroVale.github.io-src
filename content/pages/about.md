@@ -1,5 +1,6 @@
 Title: About
 Status: published
+Header_Cover: /images/CV.png
 
 Data Analytics professional with a strong research background and experience in FinTech, Big Data and statistics.
 
