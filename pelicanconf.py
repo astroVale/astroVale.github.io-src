@@ -64,14 +64,15 @@ DISPLAY_SEARCH_FORM= False
 
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+# RELATIVE_URLS = True
+
 ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
 
-MENUITEMS = [('Home', ''),
+MENUITEMS = [('Home', '/'),
              ('About', '/pages/about.html'),
              ('CV', '/pages/cv.html'),
-             ('Archives', 'archives.html'),
+             ('Archives', '/archives.html'),
              ]
 
 NEWEST_FIRST_ARCHIVES = True
@@ -81,7 +82,7 @@ STATIC_PATHS = [
 ]
 
 PLUGIN_PATHS = ["plugins"]
-PLUGINS = ["render_math", "liquid_tags.notebook", "share_post", "embed_tweet"]
+PLUGINS = ["render_math", "liquid_tags.notebook"]
 MARKDOWN = {
     'extension_configs': {
         'markdown.extensions.codehilite': {'css_class': 'highlight'},
@@ -93,9 +94,7 @@ MARKDOWN = {
 }
 
 THEME = 'themes/pelican-clean-blog'
-SITEIMAGE = '/images/CV-2.png width=90 height=90'
+# SITEIMAGE = '/images/CV-2.png width=90 height=90'
 HEADER_COVER = 'images/astro_sayner.jpg'
 
-GITHUB_URL = 'https://github.com/astroVale'
-TWITTER_URL = 'https://twitter.com/v_scipione'
 COLOR_SCHEME_CSS = 'darkly.css'
