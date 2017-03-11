@@ -10,3 +10,6 @@
 [submodule "themes/pelican-clean-blog"]
 	path = themes/pelican-clean-blog
 	url = git@github.com:gilsondev/pelican-clean-blog.git
+[submodule "output"]
+	path = output
+	url = git@github.com:astroVale/astroVale.github.io.git

@@ -2,6 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c26ad1c-592a-44c1-93dd-775aa7e604f7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/archives.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/author/valentina-scipione.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/authors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/categories.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/category/general.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/feeds/all.atom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/feeds/general.atom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/images/CV.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/images/astro_sayner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/images/posts/ROBERTO-SCANNELLA-9.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/images/posts/maxresdefault.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/pages/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/pages/about/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/pages/cv.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/pages/cv/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/posts/2016/Mar/08/my-first-post/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/posts/2017/Feb/08/a-tale-that-wasnt-right/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/posts/2017/Mar/07/machine-learning-findings/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/tags.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/css/clean-blog.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/css/clean-blog.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/css/code_blocks/darkly.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/css/code_blocks/github.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/css/code_blocks/github_jekyll.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/css/code_blocks/monokai.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/css/code_blocks/tomorrow.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/css/code_blocks/tomorrow_night.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/about-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/contact-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/home-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/post-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/post-sample-image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/js/clean-blog.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/js/clean-blog.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/js/jquery.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitmodules" afterPath="$PROJECT_DIR$/.gitmodules" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pelicanconf.py" afterPath="$PROJECT_DIR$/pelicanconf.py" />
     </list>
@@ -24,11 +71,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pelicanconf.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pelicanconf.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pelicanconf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="74" column="28" lean-forward="false" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
+            <state relative-caret-position="275">
+              <caret line="39" column="28" lean-forward="false" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitmodules" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitmodules">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -55,6 +112,7 @@
         <option value="$PROJECT_DIR$/publishconf.py" />
         <option value="$PROJECT_DIR$/content/pages/about.md" />
         <option value="$PROJECT_DIR$/pelicanconf.py" />
+        <option value="$PROJECT_DIR$/.gitmodules" />
       </list>
     </option>
   </component>
@@ -127,87 +185,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="posts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ghpages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ghpages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="output" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ghpages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ghpages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="output" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ghpages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ghpages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="output" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="about" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ghpages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ghpages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="output" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -874,18 +852,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitmodules">
+    <entry file="file://$PROJECT_DIR$/pelicanconf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="275">
+          <caret line="39" column="28" lean-forward="false" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pelicanconf.py">
+    <entry file="file://$PROJECT_DIR$/.gitmodules">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="74" column="28" lean-forward="false" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

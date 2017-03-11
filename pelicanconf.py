@@ -39,11 +39,6 @@ DEFAULT_METADATA = {
 # Display pages list on the top menu
 DISPLAY_PAGES_ON_MENU = True
 
-# PAGES = [('About', 'pages/about.html'),
-#          ('CV', 'pages/cv.html'),
-#          ('Archives', 'archives.html')
-#         ]
-
 # Display categories list on the top menu
 DISPLAY_CATEGORIES_ON_MENU = False
 
