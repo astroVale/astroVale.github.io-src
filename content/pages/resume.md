@@ -2,7 +2,7 @@ Title: CV
 Status: published
 Header_Cover: /images/astro_sayner.jpg
 
-## Valentina Scipione
+# Valentina Scipione
 []() `vscipione.mail @ gmail.com`
 
 ### Summary
@@ -11,7 +11,7 @@ _Data Analytics professional with a strong research background and experience in
 ### Technical Skills
 * **Machine Learning knowledge**: classification, regression, clustering
 * **Statistical Methods**: time series, regression models, hypothesis testing and confidence intervals
-* **Software and Programming Languages**: `Python (Numpy, Pandas, Matplotlib)`, `R`, `SQL`, `Bash`, `PHP`, `Javascript`, `IDL` (`Fortran` based), `C`/`C++` (beginner), `Unix`/`Linux`, `Microsoft Excel`, `\LaTeX`, `git`, `GitHub`, `Bitbucket`, `Jenkins`
+* **Software and Programming Languages**: `Python (Numpy, Pandas, Matplotlib)`, `R`, `SQL`, `Bash`, `PHP`, `Javascript`, `IDL` (`Fortran` based), `Unix`/`Linux`, `Microsoft Excel`, `LaTeX`, `git`, `GitHub`, `Bitbucket`, `Jenkins`
 * **Virtualization**: `VMWare`, `Virtual Box`, `Docker`
 
 ### Professional Experience
