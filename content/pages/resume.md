@@ -6,16 +6,21 @@ Header_Cover: /images/astro_sayner.jpg
 []() `vscipione.mail @ gmail.com`
 
 ### Summary
-_Data Analytics professional with a strong research background and experience in FinTech, big data and statistics. 3+ years of experience as Software QA Engineer for a wide range of software projects. Passionate about data, strongly motivated individual who enjoys solving problems with data and works effectively both as team member and independently._
+_Data Analytics professional with a strong research background and experience in Astrophysics, Big Data and statistics. 4+ years of experience as Software QA Engineer for a wide range of software projects. Passionate about data, strongly motivated individual who enjoys solving problems with data and works effectively both as team member and independently._
 
 ### Technical Skills
 * **Machine Learning knowledge**: classification, regression, clustering
 * **Statistical Methods**: time series, regression models, hypothesis testing and confidence intervals
-* **Software and Programming Languages**: `Python (Numpy, Pandas, Matplotlib)`, `R`, `SQL`, `Bash`, `PHP`, `Javascript`, `IDL` (`Fortran` based), `Unix`/`Linux`, `Microsoft Excel`, `LaTeX`, `git`, `GitHub`, `Bitbucket`, `Jenkins`
-* **Virtualization**: `VMWare`, `Virtual Box`, `Docker`
+* **Software and Programming Languages**: `Python (Numpy, Pandas, Matplotlib)`, `R`, `SQL`, `Bash`, `PHP`, `Javascript`, `Selenium`, `git`, `GitHub`, `Gitlab`, `Bitbucket`, `Jenkins`, `Kubernetes`, `Postman`, `LaTeX`, `IDL` (`Fortran` based), `Unix`/`Linux`, `Microsoft Excel`
+* **Virtualization**: `Docker`, `VMWare`, `Virtual Box`
 
 ### Professional Experience
-* **QA Automation Engineer & Data Analyst**, [CrossLend GmbH](https://de.crosslend.com/), Berlin, Germany (Nov. 2015 – Present)
+
+* **QA Engineer**, [Planet Labs Germany GmbH](https://www.planet.com/), Berlin, Germany (Oct. 2018 – Present)
+  <br>
+Designing, coding and executing end to end automated test for UI and API.
+
+* **QA Automation Engineer & Data Analyst**, [CrossLend GmbH](https://de.crosslend.com/), Berlin, Germany (Nov. 2015 – Sep. 2017)
 <br>
     * **Data Analyst**: supporting the Data Science Team by performing Data Analysis. In particular, successfully implemented an algorithm aimed at finding anomalies in **credit risk scoring** and working on **fraud detection** making use of data visualization, geolocation APIs and statistical data analysis.
 <br>
@@ -33,7 +38,7 @@ Served as key member of software development team as the lead QA Engineer respon
 
 * **Data Analyst - PhD candidate**, [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de/en/), Potsdam, Germany (Sep. 2011 - Aug. 2013)
 <br>
-    * **Time series analysis** of astrophysical observations performed by X- ray satellite: applied best fitting theoretical models, linear regression, interpolation, least-squares, boxcar smoothing, de-trending, Rayleigh periodogram statistics, data visualization.
+    * **Time series analysis** of astrophysical observations performed by X- ray satellites: applied best fitting theoretical models, linear regression, interpolation, least-squares, boxcar smoothing, de-trending, Rayleigh periodogram statistics, data visualization.
 <br>
     * Successfully coded **Bash** script for **automating** the raw **data cleaning** and processing **pipelines**.
     
